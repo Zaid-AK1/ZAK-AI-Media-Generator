@@ -2,7 +2,7 @@
 
 <img width="687" height="805" alt="photo_2026-05-02_09-29-15" src="https://github.com/user-attachments/assets/9eae1e95-ed35-4002-8d6b-6d854533b2e3" />
 
-This Tool for Artificial intelligence tools for creating images, etc.
+AI-powered Python automation pipeline for generating and processing visual digital assets.
 
 # Installation
 
