@@ -6,7 +6,7 @@ This Tool for Artificial intelligence tools for creating images, etc.
 
 # Installation
 
-On kali linux :
+On Linux :
 
 Step 1 : git clone https://github.com/Zaid-AK1/ZAK-AI.git
 
